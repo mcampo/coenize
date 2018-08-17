@@ -1,0 +1,8 @@
+{
+  "name": "coenize",
+  "version": "1.0.1",
+  "bin": "./index.js",
+  "description": "Coenizador",
+  "main": "index.js",
+  "license": "MIT"
+}
